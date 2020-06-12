@@ -1,3 +1,4 @@
+// Some small exercises to warm my hands
 // Question 1
 const showNumbers = (limit)=> {
   for (let i = 0; i <= limit; i++) {
